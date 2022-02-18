@@ -1,0 +1,41 @@
+.experiencia{
+    margin-top: 300px;
+    margin-left: 100px;
+    font-size: 200%;
+}
+
+.experiencia .free{
+    margin-left: 100px;
+    font-size: 100%;
+    margin-right: 400px;
+}
+.experiencia .free p {
+    font-size: 100%;
+    
+}
+.experiencia .free li {
+    font-size: 80%;
+    
+}
+
+
+.experiencia .cinlat{
+    margin-top: 100px;
+    margin-left: 300px;
+
+}
+.experiencia .becario{
+    margin-left: 100px;
+    font-size: 100%;
+    margin-top: -110px;
+    margin-right: 400px;
+
+}
+.experiencia .becario p {
+    font-size: 100%;
+    
+}
+.experiencia .becario li {
+    font-size: 80%;
+    
+}

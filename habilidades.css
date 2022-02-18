@@ -1,0 +1,66 @@
+.habilidades .desarrollador {
+ margin-top: 400px;   
+ margin-left: 400px;
+}
+ul, ol{
+    list-style: none;
+}
+.habilidades .desarrollador li {
+    font-size: 30px;
+}
+.habilidades .desarrollador li a{
+    background: rgb(93, 109, 98);
+text-decoration: none;
+padding: 10px,15px;
+font-size: 50px;
+
+}
+.habilidades .desarrollador li a:hover{
+    background: rgb(246, 230, 227);
+    text-decoration: none;
+    padding: 10px,15px;
+    
+    }
+.habilidades .desarrollador li ul{
+    display: none;
+    position: absolute;
+    min-width: 100px;
+
+}        
+.habilidades .desarrollador li:hover >ul{
+ display: block;
+}        
+
+    
+    
+.habilidades .so{
+    margin-top: -55px;   
+    margin-left: 1000px;
+   }
+   .habilidades .so li {
+    font-size: 30px;
+}
+
+   .habilidades .so li a{
+    background: rgb(93, 109, 98);
+    text-decoration: none;
+    padding: 10px,15px;
+    font-size: 50px;
+    
+    }
+    .habilidades .so li a:hover{
+        background: rgb(246, 230, 227);
+        text-decoration: none;
+        padding: 10px,15px;
+        
+    }
+
+    .habilidades .so li ul{
+        display: none;
+        position: absolute;
+        min-width: 100px;
+    
+    }        
+    .habilidades .so li:hover >ul{
+     display: block;
+    }        

@@ -1,0 +1,28 @@
+.contact{
+    margin-top: 400px;
+    margin-left: 600px;
+}
+.contact .contactog .imggmail{
+    margin-left:   120px;
+    margin-top: -100px;
+}
+.contact .contactof{
+    margin-top: 100px;
+}
+
+.contact .contactogit .github{
+    margin-left:   120px;
+    margin-top: -100px;
+}
+.contact .contactogit {
+    margin-top: 70px;
+}
+
+.contact .contactow {
+    margin-top: 60px;
+}
+
+.contact .contactow .whats{
+    margin-left:   120px;
+    margin-top: -100px;
+}

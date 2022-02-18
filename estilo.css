@@ -1,0 +1,92 @@
+
+
+header {
+    width: 100%;
+    background: rgb(230, 180, 171);
+    right: 1200px;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
+html{
+    scroll-behavior: smooth;
+}
+body {
+    width: 100%;
+    background: rgb(93, 109, 98);
+    color: white;
+}
+
+#proyectode{
+    margin-top: 200px;
+}
+
+a{
+
+      font-size: 25px;
+    color: white;
+}
+h1{
+    margin-top: 30px;
+}
+h2{
+    margin-top: 30px;
+}
+li{
+    font-size: 18px;
+}
+p{
+    font-family: 'Rowdies';
+    src: url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap') format('woff2'),
+    margin-left: 20px;
+    margin-right:200px;
+    font-size: 26px;
+    
+}
+img{
+
+    margin-top: 20px;
+    cursor: pointer;
+
+}
+#perfil{
+    margin-top: 200px;
+    margin-left: 800px;
+    border-radius: 90%;
+}
+.encabezado {
+    margin-left: 2300px;
+}
+
+
+.menu a {
+    display: inline;
+    height: 45px;
+    text-decoration: none;
+    padding: 50px;
+
+}
+
+
+@media (min-width:1024px) {
+    .menu {
+        display: flex;
+    }
+}
+.General{
+    margin-left: 760px;
+    font-size: 180%;
+}
+
+.mi{
+    margin-top: 500px;
+    font-size: 150%;
+}
+.mi .titulo{
+    margin-left: 50px;
+}
+
+.mi .informacion{
+    margin-left: 100px;
+    margin-right: 800px;
+}
